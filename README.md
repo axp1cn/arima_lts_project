@@ -95,9 +95,3 @@ cd src && Rscript project_LTS.R
 - Box, G. E. P., & Jenkins, G. M. (1976). *Time Series Analysis: Forecasting and Control*. Holden-Day.
 - Hamilton, J. D. (1994). *Time Series Analysis*. Princeton University Press.
 - Hyndman, R. J., & Athanasopoulos, G. (2021). *Forecasting: principles and practice* (3rd ed.). OTexts.
-
----
-
-**Authors**: Axel Pinçon, Jerome Allier  
-**Institution**: ENSAE  
-**Project**: Linear Time Series Analysis
