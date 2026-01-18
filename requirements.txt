@@ -1,0 +1,9 @@
+# R Package Dependencies
+# Install using: install.packages(c("zoo", "tseries", "fUnitRoots", "ggplot2", "xtable", "forecast"))
+
+zoo
+tseries
+fUnitRoots
+ggplot2
+xtable
+forecast

@@ -1,0 +1,42 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+*.Rproj.user
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+
+# Data (keep structure, ignore actual data files)
+data/*.csv
+data/*.xlsx
+data/*.xls
+!data/README.md
+
+# Reports/Outputs (optional - uncomment if you want to ignore generated files)
+# reports/*.png
+# reports/*.pdf
+
+# IDE
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Secrets
+.env
+*.key
+*.pem
