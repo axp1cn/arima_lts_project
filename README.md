@@ -17,7 +17,7 @@ This repositoty implements a time series analysis and forecasting of French arms
 - **Stationarity achieved**: First-order differencing successfully transformed the non-stationary series
 - **Model diagnostics**: Residuals pass autocorrelation tests (Ljung-Box) and show acceptable fit
 - **Visualizations**: See `reports/` for ACF/PACF plots, residual plots, Q-Q plots, and forecast visualizations
-- **Full analysis report**: See `reports/Time_series__axel_jeje_.pdf` for detailed methodology and results
+- **Full analysis report**: See `reports/lts_project_report.pdf` for detailed methodology and results
 
 ## Repository Layout
 
@@ -29,7 +29,7 @@ arima_lts_project/
 │   ├── arms_truncated_index.csv
 │   └── README.md
 ├── reports/            # Generated figures and PDF reports
-│   ├── Time_series__axel_jeje_.pdf
+│   ├── lts_project_report.pdf
 │   ├── plot_*.png      # Time series and diagnostic plots
 │   └── *.png           # Model comparison figures
 ├── tests/              # (Reserved for future test suites)
